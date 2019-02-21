@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Managing External Storage mounts"
-tag: ownCloud
+tags: ownCloud
 permalink: "/documentation/managing-external-storage-mounts"
 ---
 
