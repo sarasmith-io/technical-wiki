@@ -4,7 +4,8 @@ url: 'https://sarasmith-io.github.io'
 baseurl: ''
 
 collections:
-  - documentation
+  documentation:
+    output: true  
 
 # Build settings
 theme: jekyll-theme-cayman
