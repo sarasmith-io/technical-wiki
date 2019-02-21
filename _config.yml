@@ -1,4 +1,11 @@
 # Site settings
 title: Technical Wiki
 url: 'https://sarasmith-io.github.io'
-baseurl: '/technical-wiki'
+baseurl: ''
+
+collections:
+  - documentation
+
+# Build settings
+theme: jekyll-theme-cayman
+
