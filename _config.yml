@@ -1,7 +1,7 @@
 # Site settings
 title: Technical Wiki
 url: 'https://sarasmith-io.github.io'
-baseurl: ''
+baseurl: '/technical-wiki'
 
 collections:
   documentation:
